@@ -1,0 +1,944 @@
+{
+	"tags": [
+		{
+			"title": "React",
+			"amountOfVideos": 142
+		},
+		{
+			"title": "Vue.js",
+			"amountOfVideos": 78
+		},
+		{
+			"title": "Angular",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "JavaScript",
+			"amountOfVideos": 205
+		},
+		{
+			"title": "HTML",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "CSS",
+			"amountOfVideos": 180
+		},
+		{
+			"title": "Python",
+			"amountOfVideos": 250
+		},
+		{
+			"title": "Java",
+			"amountOfVideos": 180
+		},
+		{
+			"title": "Node.js",
+			"amountOfVideos": 160
+		},
+		{
+			"title": "Express.js",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "MongoDB",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "SQL",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "APIs",
+			"amountOfVideos": 200
+		},
+		{
+			"title": "Git",
+			"amountOfVideos": 150
+		},
+		{
+			"title": "Docker",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Kubernetes",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "AWS",
+			"amountOfVideos": 170
+		},
+		{
+			"title": "Azure",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Google Cloud",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Machine Learning",
+			"amountOfVideos": 190
+		},
+		{
+			"title": "Data Science",
+			"amountOfVideos": 210
+		},
+		{
+			"title": "Blockchain",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Cybersecurity",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "DevOps",
+			"amountOfVideos": 150
+		},
+		{
+			"title": "Microservices",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "GraphQL",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "RESTful APIs",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "CI/CD",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Scrum",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Kanban",
+			"amountOfVideos": 50
+		},
+		{
+			"title": "Agile",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "UX/UI Design",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "Responsive Design",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Adobe XD",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Figma",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Sketch",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Wireframing",
+			"amountOfVideos": 50
+		},
+		{
+			"title": "Prototyping",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "User Testing",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "SEO",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "SEM",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Google Analytics",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Content Marketing",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Email Marketing",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Social Media Marketing",
+			"amountOfVideos": 150
+		},
+		{
+			"title": "Influencer Marketing",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Affiliate Marketing",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "E-commerce",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "Dropshipping",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Shopify",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Magento",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "WooCommerce",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Payment Gateways",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Cryptocurrency",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Bitcoin",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Ethereum",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Altcoins",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "DeFi",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "NFTs",
+			"amountOfVideos": 50
+		},
+		{
+			"title": "Cryptocurrency Trading",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Cryptocurrency Investing",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Personal Finance",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Stock Market",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "Real Estate Investing",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Retirement Planning",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Passive Income",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Entrepreneurship",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Startup",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Small Business",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Business Strategy",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Marketing Strategy",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Sales Techniques",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Customer Service",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Leadership",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Management",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Remote Work",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Productivity",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Time Management",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Goal Setting",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Self-Improvement",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Mindfulness",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Stress Management",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Happiness",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Wellness",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Fitness",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Nutrition",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Dieting",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Weight Loss",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Muscle Building",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Cardio",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Yoga",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Meditation",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Pilates",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Running",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Cycling",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Surfing",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Skateboarding",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Snowboarding",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Skiing",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Golf",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Tennis",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Soccer",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Basketball",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Football",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Baseball",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Hockey",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Cricket",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Rugby",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Boxing",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "MMA",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Wrestling",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Taekwondo",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Karate",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Judo",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Kung Fu",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Capoeira",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Muay Thai",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Aikido",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Brazilian Jiu-Jitsu",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Krav Maga",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Self Defense",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Gardening",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Cooking",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Baking",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Mixology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "DIY",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Woodworking",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Metalworking",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Sewing",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Knitting",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Crocheting",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Painting",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Drawing",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Sculpture",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Photography",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Film Making",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Music Production",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "DJing",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Singing",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Instrument",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Music Theory",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Music Composition",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Music Performance",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Music Business",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Music History",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Art History",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Literature",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Poetry",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Creative Writing",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Fiction Writing",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Non-Fiction Writing",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Journalism",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Screenwriting",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Playwriting",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Copywriting",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Editing",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Proofreading",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Grammar",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Vocabulary",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Language Learning",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Language Teaching",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Translation",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Interpretation",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Sign Language",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Foreign Languages",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Travel",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Geography",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "History",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Politics",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Economics",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Psychology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Sociology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Anthropology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Philosophy",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Religion",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Mythology",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Astrology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Astronomy",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Cosmology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Physics",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Chemistry",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Biology",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Ecology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Environmental Science",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Zoology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Botany",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Genetics",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Evolution",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Paleontology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Archaeology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Anthropology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Geology",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Meteorology",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Oceanography",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Marine Biology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Limnology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Freshwater Biology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Aquaculture",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Ichthyology",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Herpetology",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Ornithology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Entomology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Invertebrate Zoology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Microbiology",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Virology",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Parasitology",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Immunology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Pathology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Pharmacology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Toxicology",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Neuroscience",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Psychiatry",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Oncology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Hematology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Endocrinology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Gastroenterology",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Nephrology",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Dermatology",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Ophthalmology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Otolaryngology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Urology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Orthopedics",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Cardiology",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Pulmonology",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Hepatology",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Rheumatology",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Allergology",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Immunology",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Emergency Medicine",
+			"amountOfVideos": 60
+		},
+		{
+			"title": "Family Medicine",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Internal Medicine",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Pediatrics",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Geriatrics",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Obstetrics",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Gynecology",
+			"amountOfVideos": 60
+		}
+	]
+}

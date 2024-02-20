@@ -1,5 +1,6 @@
 import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from 'lucide-react'
 
+import { useSearchParams } from 'react-router-dom'
 import { Button } from './ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger } from './ui/select'
 
@@ -10,47 +11,47 @@ interface PaginationProps {
 }
 
 export function Pagination({ items, page, pages }: PaginationProps) {
-	// const [, setSearchParams] = useSearchParams()
+	const [, setSearchParams] = useSearchParams()
 
-	// function firstPage() {
-	// 	setSearchParams((params) => {
-	// 		params.set('page', '1')
+	function firstPage() {
+		setSearchParams((params) => {
+			params.set('page', '1')
 
-	// 		return params
-	// 	})
-	// }
+			return params
+		})
+	}
 
-	// function previousPage() {
-	// 	if (page - 1 <= 0) {
-	// 		return
-	// 	}
+	function nextPage() {
+		if (page + 1 > pages) {
+			return
+		}
 
-	// 	setSearchParams((params) => {
-	// 		params.set('page', String(page - 1))
+		setSearchParams((params) => {
+			params.set('page', String(page + 1))
 
-	// 		return params
-	// 	})
-	// }
+			return params
+		})
+	}
 
-	// function nextPage() {
-	// 	if (page + 1 > pages) {
-	// 		return
-	// 	}
+	function previousPage() {
+		if (page - 1 <= 0) {
+			return
+		}
 
-	// 	setSearchParams((params) => {
-	// 		params.set('page', String(page + 1))
+		setSearchParams((params) => {
+			params.set('page', String(page - 1))
 
-	// 		return params
-	// 	})
-	// }
+			return params
+		})
+	}
 
-	// function lastPage() {
-	// 	setSearchParams((params) => {
-	// 		params.set('page', String(pages))
+	function lastPage() {
+		setSearchParams((params) => {
+			params.set('page', String(pages))
 
-	// 		return params
-	// 	})
-	// }
+			return params
+		})
+	}
 
 	return (
 		<div className='flex text-sm items-center justify-between text-zinc-500'>
@@ -75,31 +76,34 @@ export function Pagination({ items, page, pages }: PaginationProps) {
 
 				<div className='space-x-1.5'>
 					<Button
-						// onClick={firstPage}
+						onClick={firstPage}
 						size='icon'
 						disabled={page - 1 <= 0}
 					>
 						<ChevronsLeft className='size-4' />
 						<span className='sr-only'>First page</span>
 					</Button>
+
 					<Button
-						// onClick={previousPage}
+						onClick={previousPage}
 						size='icon'
 						disabled={page - 1 <= 0}
 					>
 						<ChevronLeft className='size-4' />
 						<span className='sr-only'>Previous page</span>
 					</Button>
+
 					<Button
-						// onClick={nextPage}
+						onClick={nextPage}
 						size='icon'
 						disabled={page + 1 > pages}
 					>
 						<ChevronRight className='size-4' />
 						<span className='sr-only'>Next page</span>
 					</Button>
+
 					<Button
-						// onClick={lastPage}
+						onClick={lastPage}
 						size='icon'
 						disabled={page + 1 > pages}
 					>
